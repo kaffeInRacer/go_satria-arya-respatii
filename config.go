@@ -9,8 +9,8 @@ import (
 
 const DB_USERNAME = "root"
 const DB_PASSWORD = "root"
-const DB_NAME = "ini_test"
-const DB_HOST = "127.0.0.1"
+const DB_NAME = "tugas_section6"
+const DB_HOST = "localhost"
 const DB_PORT = "3306"
 
 var Db *gorm.DB
